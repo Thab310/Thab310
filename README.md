@@ -1,7 +1,7 @@
 ## Hi I'm [Thabelo](https://hashnode.com/@Thab310) <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi">
 
 
-I'm **DevOps Engineer**.Hello, I am a self-taught DevOps engineer that is passionate about automating processes and building pipelines. At the “core” am a life-long learner that enjoys being at the forefront of cloud innovative technologies that simplify solutions. I love using my ever-growing skill set for building projects and finding best ways to explain cloud concept using simple illustrations that will resonate with people.
+Hello, I am a self-taught **DevOps engineer** that is passionate about automating processes and building pipelines. At the “core” am a life-long learner that enjoys being at the forefront of cloud innovative technologies that simplify solutions. I love using my ever-growing skill set for building projects and finding best ways to explain cloud concept using simple illustrations that will resonate with people.
 
 <br>
 
