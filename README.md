@@ -15,11 +15,10 @@ I am a self-taught **DevOps engineer** that is passionate about automating proce
 ---
 
 ### About me :)
-- 🔭 I’m currently preparing to write my AWS developer associate exam
-- :computer: Most used line of code `git commit -m "Initial Commit"`
+- 🔭 I’m currently preparing to write my AWS solutions architect associate exam
+- :computer: Most used line of code `terraform plan`
 - 🤔 Constantly trying to improve my pipeline flow.
 - 📫 How to reach me: th9b310@gmail.com
-- 😄 Pronouns: He, him, his
 - ⚡ Fun fact: I love freshwater fishing and farming
 ---
 
