@@ -26,6 +26,7 @@ I am a self-taught **DevOps engineer** that is passionate about automating proce
 ### Languages and tools ⚙️
 <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
 <p>
+<img src="https://user-images.githubusercontent.com/25181517/183345121-36788a6e-5462-424a-be67-af1ebeda79a2.png" alt="Terraform Logo" width="50" height="50"/>
 <img src="https://cdn.worldvectorlogo.com/logos/bash-1.svg" alt="Bash Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="Python Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/aws-2.svg" alt="AWS Logo" width="50" height="50"/>  <img src="https://www.svgrepo.com/show/303205/html-5-logo.svg" alt="HTML Logo" width="50" height="50"/>  <img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" alt="VSCode Logo" width="50" height="50"/> 
 </p>
 
@@ -33,12 +34,18 @@ I am a self-taught **DevOps engineer** that is passionate about automating proce
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Aws Study Notes #1](https://thab310.hashnode.dev/aws-study-notes-1)
+- [What is cloud?](https://blog.thabeloramabulana.com/what-is-cloud)
 <!-- BLOG-POST-LIST:END-->
 ---
+### My Github Stats 📊
 
-### <div align=center> Profile Visits 
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Thab310&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Thab310&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Thab310&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Thab310&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Thab310&theme=github_dark&utcOffset=8)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Thab310&theme=dark)](https://git.io/streak-stats)
 
-<div align=center> 
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=Thab310.Thab310)
+---
+
