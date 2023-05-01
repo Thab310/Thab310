@@ -15,7 +15,8 @@ I am a self-taught **DevOps engineer** that is passionate about automating proce
 ---
 
 ### About me :)
-- 🔭 I’m currently preparing to write my AWS solutions architect associate exam
+- 🔭 I'm  building an AWS 3 tier web app using Terraform
+- 🌱 I’m currently learning JavaScript and Preparing for my AWS solutions architect associate certification
 - :computer: Most used line of code `terraform plan`
 - 🤔 Constantly trying to improve my pipeline flow.
 - 📫 How to reach me: th9b310@gmail.com
