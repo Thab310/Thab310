@@ -39,8 +39,6 @@ I am a self-taught **DevOps engineer** that is passionate about automating proce
 
 #
 
----
-
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [What is cloud?](https://blog.thabeloramabulana.com/what-is-cloud)
