@@ -10,8 +10,17 @@ I am a self-taught **DevOps engineer** that is passionate about automating proce
 <br>
 
 ### Connect with me  
-[![Twitter Badge](https://img.shields.io/badge/-@Thab31o-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Thab31o)](https://twitter.com/Thab31o)
-[![Linkedin Badge](https://img.shields.io/badge/-Thabelo-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thabelo-ramabualana/) [![Mail Badge](https://img.shields.io/badge/-@thab31o-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/thab31o) [![Mail Badge](https://img.shields.io/badge/-Th9b310@gmail.com-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:th9b310@gmail.com)
+[![website](./img/globe-light.svg)](https://www.thabeloramabulana.com#gh-light-mode-only)
+[![website](./img/globe-dark.svg)](https://www.thabeloramabulana.com#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./img/twitter-light.svg)](https://twitter.com/Thab31o#gh-light-mode-only)
+[![website](./img/twitter-dark.svg)](https://twitter.com/Thab31o#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/thabelo-ramabulana/#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/thabelo-ramabulana/#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./img/instagram-light.svg)](https://www.instagram.com/thab310/#gh-light-mode-only)
+[![website](./img/instagram-dark.svg)](https://www.instagram.com/thab310/#gh-dark-mode-only)
 ---
 
 ### About me :)
@@ -47,11 +56,6 @@ I am a self-taught **DevOps engineer** that is passionate about automating proce
 ---
 ### My Github Stats 📊
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Thab310&theme=github_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Thab310&theme=github_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Thab310&theme=github_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Thab310&theme=github_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Thab310&theme=github_dark&utcOffset=8)
 [![GitHub Streak](https://streak-stats.demolab.com?user=Thab310&theme=dark)](https://git.io/streak-stats)
 
 
