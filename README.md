@@ -9,6 +9,7 @@ I am a self-taught **DevOps engineer** that is passionate about automating proce
 
 <br>
 
+
 ### Connect with me  
 [![website](./img/globe-light.svg)](https://www.thabeloramabulana.com#gh-light-mode-only)
 [![website](./img/globe-dark.svg)](https://www.thabeloramabulana.com#gh-dark-mode-only)
@@ -27,7 +28,7 @@ I am a self-taught **DevOps engineer** that is passionate about automating proce
 - 🔭 I'm  building an AWS 3 tier web app using Terraform
 - 🌱 I’m currently learning Java and Preparing for my AWS solutions architect associate certification
 - :computer: Most used line of code `terraform plan`
-- 🤔 Constantly trying to improve my pipeline flow.
+- 🤔 Trying to find ways to better modularize terraform code.
 - 📫 How to reach me: th9b310@gmail.com
 - ⚡ Fun fact: I love freshwater fishing and farming
 ---
