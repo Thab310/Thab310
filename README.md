@@ -26,14 +26,15 @@ I am a self-taught **DevOps engineer** that is passionate about automating proce
 
 ### About me :)
 - 🔭 I'm  building an AWS 3 tier web app using Terraform
-- 🌱 I’m currently learning Java and Preparing for my AWS solutions architect associate certification
+- 🌱 I’m currently learning Java and Preparing for my AWS Solutions Architect Associate.
+- 👯 I’m looking to collaborate on aws projects
 - :computer: Most used line of code `terraform plan`
 - 🤔 Trying to find ways to better modularize terraform code.
 - 📫 How to reach me: th9b310@gmail.com
 - ⚡ Fun fact: I love freshwater fishing and farming
 ---
 
-### Languages and tools ⚙️
+### ⚙️ Languages and tools 
 <!-- For more icons please follow  https://devicon.dev/ and  https://github.com/MikeCodesDotNET/ColoredBadges -->
 
 <img align="left" alt="Git" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
