@@ -31,7 +31,7 @@ I am a self-taught **DevOps engineer** that is passionate about automating proce
 - :computer: Most used line of code: `terraform plan`
 - 🥅 2023 Goals: Transform into a **Super DevOps Engineer**
 - 📫 How to reach me: th9b310@gmail.com
-- ⚡ Fun fact: I love freshwater fishing and farming
+- ⚡ Fun fact: I enjoy freshwater fishing and farming
 ---
 
 ### ⚙️ Languages and tools 
