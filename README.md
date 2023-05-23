@@ -28,7 +28,7 @@ I am a self-taught **DevOps engineer** that is passionate about automating proce
 - 🔭 I'm  building an AWS 3 tier web app using Terraform
 - 🌱 I’m currently learning Java and Preparing for my AWS Solutions Architect Associate.
 - 👯 I’m looking to collaborate on aws projects
-- :computer: Most used line of code: `terraform plan`
+- :computer: Most used line of code: `terraform plan` `terraform apply-auto-approve`
 - 🥅 2023 Goals: Transform into a **Super DevOps Engineer**
 - 📫 How to reach me: th9b310@gmail.com
 - ⚡ Fun fact: I enjoy freshwater fishing and farming
