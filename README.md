@@ -25,7 +25,7 @@ I am a self-taught **DevOps engineer** that is passionate about automating proce
 ---
 
 ### About me :)
-- 🔭 I'm  building an AWS 3 Tier Web application using Terraform Modules
+- 🔭 I'm  building an AWS 3 Tier Web Application using Terraform Modules
 - 🌱 I’m currently preparing for my *AWS Solutions Architect Associate* certificate.
 - 👯 I’m looking to collaborate on aws and python projects
 - :computer: Most used line of code: `terraform plan` `terraform apply-auto-approve`
