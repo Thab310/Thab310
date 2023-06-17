@@ -54,6 +54,7 @@ I am a self-taught **DevOps engineer** that is passionate about automating proce
 <!-- BLOG-POST-LIST:START -->
 - [What is cloud?](https://blog.thabeloramabulana.com/what-is-cloud)
 - [Building an AWS Dev Environment using Terraform](https://blog.thabeloramabulana.com/building-an-aws-development-environment-using-terraform)
+- [Dockerfile vs Docker Image vs Docker Container?](https://blog.thabeloramabulana.com/dockerfile-vs-docker-image-vs-docker-container)
 <!-- BLOG-POST-LIST:END-->
 ---
 ### My Github Stats 📊
