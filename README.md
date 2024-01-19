@@ -29,7 +29,7 @@ I am a self-taught **DevOps engineer** that is passionate about automating proce
 - 🌱 I’m currently preparing for my *Java OCA* certificate.
 - 👯 I’m looking to collaborate on aws and Java projects
 - :computer: Most used line of code: `terraform plan` `terraform apply-auto-approve`
-- 🥅 2023 Goals: Transform into a **Super DevOps Engineer**
+- 🥅 2024 Goals: Transform into a **Super DevOps Engineer**
 - 📫 How to reach me: th9b310@gmail.com
 - ⚡ Fun fact: I enjoy freshwater fishing and farming
 ---
