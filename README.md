@@ -29,7 +29,7 @@
 - 🌱 I’m currently preparing for my *CKA* certificate.
 - 👯 I’m looking to collaborate on AWS and GO projects
 - :computer: Most used line of code: `terraform plan` `terraform apply-auto-approve`
-- 🥅 2024 Goals: get cka and master golang
+- 🥅 2024 Goals: get cka certification and master golang
 - 📫 How to reach me: th9b310@gmail.com
 - ⚡ Fun fact: I enjoy freshwater fishing and farming
 ---
