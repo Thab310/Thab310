@@ -27,7 +27,7 @@
 
 ### About me :)
 - 🔭 I'm  building an AWS 3 Tier Web Application using Terraform 
-- 🌱 I’m currently preparing for my *CKA* certificate.
+- 🌱 I’m currently preparing for my *CKA* exam.
 - 👯 I’m looking to collaborate on AWS and GO projects
 - :computer: Most used line of code: `terraform plan` `terraform apply-auto-approve`
 - 🥅 2024 Goals: get cka certification and master golang
