@@ -26,7 +26,7 @@
 ---
 
 ### About me :)
-- 🔭 I'm  building an AWS 3 Tier Web Application using Terraform 
+- 🔭 I'm  building a GitHub actions self-hosted runners using kubernetes & Terraform 
 - 🌱 I’m currently preparing for my *CKA* exam.
 - 👯 I’m looking to collaborate on AWS and GO projects
 - :computer: Most used line of code: `terraform plan` `terraform apply-auto-approve`
