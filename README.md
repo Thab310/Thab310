@@ -64,7 +64,7 @@
 <br>
 <br>
 
-### ⚙️ Databases
+### 💾 Databases
 <img align="left" alt="Git" width="45px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain-wordmark.svg" />
 
 <br>
