@@ -26,7 +26,7 @@
 ---
 
 ### About me :)
-- 🔭 I'm  building GitHub actions self-hosted runners using Kubernetes & Terraform 
+- 🔭 I'm  building an eCommerce application using a distributed system design pattern (Microservices)
 - 🌱 I’m currently preparing for my *CKA* exam.
 - 👯 I’m looking to collaborate on AWS and GO projects
 - :computer: Most used line of code: `terraform plan` `terraform apply-auto-approve`
