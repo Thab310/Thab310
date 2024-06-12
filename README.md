@@ -32,7 +32,7 @@
 - :computer: Most used line of code: `terraform plan` `terraform apply-auto-approve`
 - 🥅 2024 Goals: get *CKA* certification, master golang and build a end-to-end go microservice.
 - 📫 How to reach me: th9b310@gmail.com
-- ⚡ Fun fact: I enjoy freshwater fishing and farming
+- ⚡ Fun fact: I love bass fishing 🎣
 ---
 
 ### ⚙️Languages & Tools 
