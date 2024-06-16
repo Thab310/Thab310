@@ -28,7 +28,7 @@
 ### About me :)
 - 🔭 I'm  building an eCommerce application using a distributed system design pattern (Microservices)
 - 🌱 I’m currently preparing for my *CKA* exam.
-- 👯 I’m looking to collaborate on AWS and GO projects
+- 👯 I’m looking to collaborate on AWS, K8s and GO projects
 - :computer: Most used line of code: `terraform plan` `terraform apply-auto-approve`
 - 🥅 2024 Goals: get *CKA* certification, master golang and build a end-to-end go microservice.
 - 📫 How to reach me: th9b310@gmail.com
