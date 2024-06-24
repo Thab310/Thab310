@@ -31,7 +31,7 @@
 - 👯 I’m looking to collaborate on AWS, K8s and GO projects
 - :computer: Most used line of code: `terraform plan` `terraform apply-auto-approve`
 - 🥅 2024 Goals: get *CKA* certification, master golang and build a end-to-end go microservice.
-- 📫 How to reach me: th9b310@gmail.com
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/thabelo-ramabulana/)
 - ⚡ Fun fact: I love bass fishing 🎣
 ---
 
