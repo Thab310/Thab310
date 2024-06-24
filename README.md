@@ -60,7 +60,7 @@
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [What is cloud?](https://blog.thabeloramabulana.com/what-is-cloud)
-- [Building an AWS Dev Environment using Terraform](https://blog.thabeloramabulana.com/building-an-aws-development-environment-using-terraform)
+- [Building an AWS dev environment using Terraform](https://blog.thabeloramabulana.com/building-an-aws-development-environment-using-terraform)
 - [Dockerfile vs Docker Image vs Docker Container?](https://blog.thabeloramabulana.com/dockerfile-vs-docker-image-vs-docker-container)
 <!-- BLOG-POST-LIST:END-->
 ---
