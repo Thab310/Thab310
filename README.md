@@ -26,7 +26,7 @@
 ---
 
 ### About me :)
-- 🔭 I'm  building an eCommerce application using a distributed system design pattern (Microservices)
+- 🔭 I'm  building a golang application using a distributed system design pattern (Microservices)
 - 🌱 I’m currently preparing for my *CKA* exam.
 - 👯 I’m looking to collaborate on AWS, K8s and GO projects
 - :computer: Most used line of code: `terraform plan` `terraform apply-auto-approve`
