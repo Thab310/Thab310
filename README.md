@@ -27,7 +27,7 @@
 
 ### About me :)
 - 🔭 I'm  building a Golang application using a distributed system design pattern (Microservices)
-- 🌱 I’m currently preparing for my *CKAD* exam.
+- 🌱 I’m currently preparing for my *CKS* exam.
 - 👯 I’m looking to collaborate on AWS, K8s and GO projects
 - :computer: Most used line of code: `terraform plan` `terraform apply-auto-approve`
 - 🥅 2024 Goals: get *CKAD* certification, master golang and build a end-to-end go microservice.
