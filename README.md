@@ -30,7 +30,7 @@
 - 🌱 I’m currently preparing for my *CKS* exam.
 - 👯 I’m looking to collaborate on AWS, K8s and GO projects
 - :computer: Most used line of code: `terraform plan` `terraform apply-auto-approve`
-- 🥅 2025 Goals: get *CKS* certification, start building on GCP, master Golang, and build an end-to-end go microservice.
+- 🥅 2025 Goals: get *CKS* certification, start building a k8s homelab, master Golang, and build an end-to-end go microservice.
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/thabelo-ramabulana/)
 - ⚡ Fun fact: I love bass fishing 🎣
 ---
