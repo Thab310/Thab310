@@ -26,7 +26,7 @@
 ---
 
 ### About me :)
-- 🔭 I'm currently building a 🧠 Golang application using a distributed system design pattern (Microservices)
+- 🔭 Building a K8S Operator using *Kubebuilder*.
 - 🌱 I’m currently preparing for my *AWS AI Cloud Practitioner* exam.
 - 👯 I’m looking to collaborate on AWS, K8s and GO projects
 - :computer: Most used line of code: `go test` `terraform apply-auto-approve`
